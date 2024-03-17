@@ -6,6 +6,6 @@
 ###  👯 I’m looking to collaborate on cpp and python
 ###  🤔 I’m looking for help with C++ (ironic, heh).
 ###  💬 Ask me about Python and C++
-###  📫 How to reach me. Through my discord, Repo Discussions and more later on.
+###  📫 How to reach me. Through my discord(_alcor_25), Repo Discussions and more later on.
 ###  😄 Pronouns: He/him
 
